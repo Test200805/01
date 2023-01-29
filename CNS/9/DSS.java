@@ -11,10 +11,7 @@ import java.security.PublicKey;
 import java.security.Signature;
 import java.util.Scanner;
 
-/**
- *
- * @author goushik
- */
+
 public class DSS 
 {
      public static void main(String args[]) throws Exception
