@@ -6,10 +6,7 @@ package CNS;
 
 import java.util.Scanner;
 
-/**
- *
- * @author goushik
- */
+
 public class RowColTrans 
 {
    static String ROWEncryption(String plainText,int depth)throws Exception
