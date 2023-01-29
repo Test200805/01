@@ -6,10 +6,7 @@ package CNS;
 
 import java.security.MessageDigest;
 
-/**
- *
- * @author goushik
- */
+
 public class SHA_1 
 {
    private static String BytesToHex(byte[] b)
