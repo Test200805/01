@@ -6,10 +6,7 @@ package CNS;
 
 import java.util.*;
 
-/**
- *
- * @author goushik
- */
+
 public class VigenereCipher 
 {
     private String key;    
