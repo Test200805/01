@@ -11,10 +11,7 @@ import java.util.Scanner;
 import javax.crypto.Cipher;
 import javax.crypto.spec.SecretKeySpec;
 
-/**
- *
- * @author goushik
- */
+
 public class AES128 
 {
    public static String KEY = "passwordpassword";
