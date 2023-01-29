@@ -6,10 +6,7 @@ package CNS;
 
 import java.util.Scanner;
 
-/**
- *
- * @author goushik
- */
+
 public class Ceaser 
 {
     private static final String ALPHABET = "abcdefghijklmnopqrstuvwxyz";    
