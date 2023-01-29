@@ -7,10 +7,7 @@ import java.util.Scanner;
 import javax.crypto.Cipher;
 import javax.crypto.spec.SecretKeySpec;
 
-/**
- *
- * @author goushik
- */
+
 public class DES 
 {
     public static String KEY = "password";
