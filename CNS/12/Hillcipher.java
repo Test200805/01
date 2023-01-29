@@ -4,10 +4,7 @@
  */
 package CNS;
 
-/**
- *
- * @author goushik
- */
+
 public class Hillcipher 
 {
     /* 3x3 key matrix for 3 characters at once */
